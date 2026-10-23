@@ -1,8 +1,8 @@
 # RIPS-json-a-excel
 
-Convierte archivos **RIPS en formato JSON** (facturación de servicios de salud, Colombia) a un libro de **Excel (.xlsx)** con una hoja por cada sección del archivo. Procesa en lote todos los `.json` que estén en la misma carpeta del script o del ejecutable.
+Convierte archivos **RIPS** (facturación de servicios de salud, Colombia) en formato **JSON (.json)** a un libro de **Excel (.xlsx)** con una hoja por cada sección del archivo. Procesa en lote todos los `.json` que estén en la misma carpeta del script o del ejecutable.
 
-> ⚠️ **Privacidad:** los RIPS contienen datos personales y de salud. Este repositorio solo incluye datos **sintéticos** (`ejemplo_EJ000001.json`). No suba archivos reales; el `.gitignore` bloquea `*.json` y `*.xlsx` salvo los de ejemplo.
+> ⚠️ **Privacidad:** los RIPS contienen datos personales y de salud. Este repositorio solo incluye datos **sintéticos** (`ejemplo_EJ000001.json`).
 
 ## Requisitos
 
