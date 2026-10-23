@@ -1,0 +1,12 @@
+# Protección de datos de pacientes: no versionar JSON/Excel reales.
+# Solo se permiten los archivos de ejemplo sintéticos.
+*.json
+*.xlsx
+!ejemplo_EJ000001.json
+!ejemplo_EJ000001_convertido.xlsx
+
+# Python / PyInstaller
+__pycache__/
+build/
+dist/
+*.spec
