@@ -1,4 +1,4 @@
-# rips-json-a-excel
+# RIPS-json-a-excel
 
 Convierte archivos **RIPS en formato JSON** (facturación de servicios de salud, Colombia) a un libro de **Excel (.xlsx)** con una hoja por cada sección del archivo. Procesa en lote todos los `.json` que estén en la misma carpeta del script o del ejecutable.
 
